@@ -9,6 +9,8 @@ export default function App() {
   );
 }
  console.log(69);
+ console.log('ankh');
+ 
  
 const styles = StyleSheet.create({
   container: {
