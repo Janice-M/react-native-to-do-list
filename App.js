@@ -10,7 +10,7 @@ export default function App() {
 }
  console.log(69);
  console.log('ankh');
- console.log(2);
+ console.log(25);
  console.log('suzanna ');
  
  
