@@ -8,8 +8,7 @@ export default function App() {
     </View>
   );
 }
- console.log(69);
- console.log('ankh');
+ 
 
 
  
