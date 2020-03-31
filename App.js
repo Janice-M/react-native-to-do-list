@@ -1,5 +1,5 @@
 import React from 'react';
-import Main from './app/Main';
+import {Text, View, Stylesheet} from 'reat'
 
 
 export default class App extends React.Component {
