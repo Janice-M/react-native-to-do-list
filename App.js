@@ -1,12 +1,13 @@
 import React from 'react';
-import {Text, View, Stylesheet} from 'reat'
+import {Text, View, Stylesheet} from 'react-native';
+
+const styles = StyleSheet.create({
 
 
-export default class App extends React.Component {
-  render(){
-    return  <Main />;
-  }
-}
+
+
+  
+})
  
 
 
