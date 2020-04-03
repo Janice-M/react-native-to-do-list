@@ -19,3 +19,17 @@ return (
 
 }
 
+function salaamz(){
+ return (
+  <view style = { {stylescenter}, {top50}} >
+    <janQuarantineGreetings  janic />
+    <janQuarantineGreetings   />
+    <janQuarantineGreetings    />
+    <janQuarantineGreetings   />
+
+  </view>
+
+ );
+
+
+}
